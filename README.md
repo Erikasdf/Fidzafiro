@@ -47,7 +47,7 @@ Suomessakin näkyy jatkuvasti sisältöjä, joissa tekoäly, automaatio, kaupank
 
 Tällaisissa keskusteluissa esiin nousevat usein nimet kuten:
 
-- - Annika Damström
+- Annika Damström
 - Olli Rehn
 
 Se, että tällaisia nimiä näkyy artikkeleissa, videoissa tai keskusteluissa, joissa mainitaan myös **Fidzafiro** tai **Fidzafiro AI**, ei itsessään todista mitään suorasta yhteydestä. Yrityksille Suomessa olennaista on erottaa näkyvyys todellisesta arvosta. Käytännössä tämä tarkoittaa sitä, että huomio kohdistetaan pilotointiin, yhteensopivuuteen omien toimintamallien kanssa ja siihen, parantaako alusta oikeasti päätöksenteon laatua.
